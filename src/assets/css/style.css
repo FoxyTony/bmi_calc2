@@ -1,0 +1,22 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: lavender;
+}
+
+input[type="text"] {
+  padding: 8px 8px;
+  margin: 6px 0;
+  box-sizing: border-box;
+  font-size: large;
+}
+
+button {
+  background-color: lightblue;
+  padding: 8px 8px;
+  font-size: large;
+}
+
+#results {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: large;
+}
